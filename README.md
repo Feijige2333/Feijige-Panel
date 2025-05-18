@@ -239,3 +239,4 @@ feijige-panel/
 ├── docs/                    # 文档
 └── scripts/                 # 部署脚本
 ```
+请下载1F Panel.zip进行安装
